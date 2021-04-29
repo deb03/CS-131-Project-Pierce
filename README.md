@@ -6,13 +6,13 @@
 
 ## FAILURE TO FILL OUT THE INFORMATION BELOW CORRECTLY WILL CAUSE POINTS TO BE DEDUCTED FROM YOUR ASSIGNMENT.
 
-## Student Name  : 
+## Student Name  : Zach Dupureur
 
-## Student ID    : 
+## Student ID    : 900350642
 
-## Student Email : 
+## Student Email : dupurezt4463@student.laccd.edu
 
-## Purpose of Repository
+## Purpose of Repository : This repository will focus on NFTs and the purpose they serve in the real world. I will explore the algorithm used to created NFTs, along with if there is any way to improve them. Specifically I'll try to focus on reducing the environmental impact of the creation and maintenance of NFTs. 
 
 The Purpose of this Repository is to study a specific intrest related to this course, apply that priciple to solve a problem, then present. We can use this page to upload our work. In order to keep things organized I would suggest creating your own folder for a specific topic and working with others in that directory(folder) if you want to work on that topic. I invite anyone who has worked with github before to assist if you know best practices when it comes to colaboration.
 
