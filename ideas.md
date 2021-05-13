@@ -1,3 +1,4 @@
 - Explore the Big - O of the algorthim to assign NFTs to the Ethereum blockchain. 
 - Explain what an NFT is to the viewers.
 - Find the environmental impact of NFT maintenance/creation per day.
+- Research SHA-256 Hash
