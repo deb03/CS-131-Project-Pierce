@@ -4,3 +4,4 @@
 - Most NFTs use the ERC-721 NFT standard here: https://eips.ethereum.org/EIPS/eip-721
 - What is a block-chain? https://www.investopedia.com/terms/b/blockchain.asp
 - Video on NFTs: https://www.youtube.com/watch?v=Xdkkux6OxfM
+- Breakdown of what puzzles are solved: https://bitcoin.stackexchange.com/questions/8031/what-are-bitcoin-miners-really-solving
