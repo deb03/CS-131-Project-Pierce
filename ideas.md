@@ -2,3 +2,4 @@
 - Explain what an NFT is to the viewers.
 - Find the environmental impact of NFT maintenance/creation per day.
 - Research SHA-256 Hash
+- Explain what the blockchain is, give a basic example. 
