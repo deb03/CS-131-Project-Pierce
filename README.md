@@ -6,11 +6,11 @@
 
 ## FAILURE TO FILL OUT THE INFORMATION BELOW CORRECTLY WILL CAUSE POINTS TO BE DEDUCTED FROM YOUR ASSIGNMENT.
 
-## Student Name  : Zach Dupureur
+## Student Name  : Debleena Chatterjee
 
-## Student ID    : 900350642
+## Student ID    : 880467684
 
-## Student Email : dupurezt4463@student.laccd.edu
+## Student Email : chatted9091@student.laccd.edu
 
 ## Purpose of Repository : This repository will focus on NFTs and the purpose they serve in the real world. I will explore the algorithm used to created NFTs, along with if there is any way to improve them. Specifically I'll try to focus on reducing the environmental impact of the creation and maintenance of NFTs. 
 
